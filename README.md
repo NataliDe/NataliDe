@@ -1,13 +1,64 @@
-- 👋 Hi there, I’m @NataliDe, a beginner developer.
-- 🌱 Currently learning web development (HTML, CSS, JavaScript).
-- 👩‍💻 Working on personal projects and improving my frontend skills.
-- 📚 Passionate about learning and experimenting with new technologies.
-- 🎯 My goal is to become a Frontend Developer.
+<h1 align="center">Hi 👋, I'm Natalia Demkiv </h1>
 
-🔗 Feel free to check out my projects or reach out for collaboration!
+<p align="center">
+💻 Programming Student at 42 School <br>
+🚀 Passionate about coding, problem solving, and technology
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently studying at **42 School**
+- 💡 Interested in software engineering and backend development
+- 🌱 Always learning new technologies and improving my skills
+- ⚡ I enjoy building projects and solving challenging problems
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,mysql" />
+</p>
+
+### Languages & Tools
+- C
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+---
+
+## 📚 Currently Learning
+
+- Algorithms & Data Structures
+- System Programming
+- Backend Development
+- Web Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=tokyonight" />
+</p>
 
 
-<!---
-NataliDe/NataliDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contact Me
+
+- GitHub: https://github.com/NataliDe
+- Email: demkiv.nataliia@gmail.com
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
