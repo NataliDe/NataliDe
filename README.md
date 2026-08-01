@@ -21,7 +21,6 @@
 ---
 ##  Contact Me
 
-- GitHub: https://github.com/NataliDe
 - Email: demkiv.nataliia@gmail.com
 <p align="center">
 ⭐ Thanks for visiting my profile!
